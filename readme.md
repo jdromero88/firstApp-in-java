@@ -1,4 +1,4 @@
-# Practicing and Playing with Java
+# Practicing and Playing with Java :coffee:
 To run this type in terminal: (I'm assuming that you have Java already installed.)
 ```
 javac FirstApp.java
